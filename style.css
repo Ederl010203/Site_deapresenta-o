@@ -79,6 +79,9 @@ p {
   .img_main{
     margin-left: 0;
   }
+  section{
+    margin-left: 10px;
+  }
 }
 @media (max-width: 1121px) {
   .container_list {
