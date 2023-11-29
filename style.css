@@ -80,7 +80,7 @@ p {
     margin-left: 0;
   }
   section{
-    margin-left: 10px;
+    margin-left: 15px;
   }
 }
 @media (max-width: 1121px) {
@@ -92,6 +92,7 @@ p {
   .btn_header{
     margin-right: 55px;
   }
+  
  
   .list_header{
     display: none;
